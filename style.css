@@ -1,0 +1,16 @@
+* {
+    font-weight: bold;
+}
+.abc0 {
+    color: green;
+}
+/* id = abc,abc1,abc2,abc3 */
+#abc {
+    color: blue;
+}
+#abc1,#abc3 {
+    color: gold;
+}
+#abc2 {
+    color: lightseagreen;
+}
